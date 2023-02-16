@@ -1,0 +1,15 @@
+/Users/juliashtih/Documents/C#/Sem2 C#/task14/bin/Debug/net7.0/task14
+/Users/juliashtih/Documents/C#/Sem2 C#/task14/bin/Debug/net7.0/task14.deps.json
+/Users/juliashtih/Documents/C#/Sem2 C#/task14/bin/Debug/net7.0/task14.runtimeconfig.json
+/Users/juliashtih/Documents/C#/Sem2 C#/task14/bin/Debug/net7.0/task14.dll
+/Users/juliashtih/Documents/C#/Sem2 C#/task14/bin/Debug/net7.0/task14.pdb
+/Users/juliashtih/Documents/C#/Sem2 C#/task14/obj/Debug/net7.0/task14.csproj.AssemblyReference.cache
+/Users/juliashtih/Documents/C#/Sem2 C#/task14/obj/Debug/net7.0/task14.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliashtih/Documents/C#/Sem2 C#/task14/obj/Debug/net7.0/task14.AssemblyInfoInputs.cache
+/Users/juliashtih/Documents/C#/Sem2 C#/task14/obj/Debug/net7.0/task14.AssemblyInfo.cs
+/Users/juliashtih/Documents/C#/Sem2 C#/task14/obj/Debug/net7.0/task14.csproj.CoreCompileInputs.cache
+/Users/juliashtih/Documents/C#/Sem2 C#/task14/obj/Debug/net7.0/task14.dll
+/Users/juliashtih/Documents/C#/Sem2 C#/task14/obj/Debug/net7.0/refint/task14.dll
+/Users/juliashtih/Documents/C#/Sem2 C#/task14/obj/Debug/net7.0/task14.pdb
+/Users/juliashtih/Documents/C#/Sem2 C#/task14/obj/Debug/net7.0/task14.genruntimeconfig.cache
+/Users/juliashtih/Documents/C#/Sem2 C#/task14/obj/Debug/net7.0/ref/task14.dll
